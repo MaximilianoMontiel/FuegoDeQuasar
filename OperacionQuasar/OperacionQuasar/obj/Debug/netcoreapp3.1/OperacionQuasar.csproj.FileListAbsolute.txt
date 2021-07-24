@@ -1,0 +1,13 @@
+C:\Users\Max\OneDrive - ITRIO\Escritorio\Pruebas\Quasar\OperacionQuasar\OperacionQuasar\bin\Debug\netcoreapp3.1\OperacionQuasar.exe
+C:\Users\Max\OneDrive - ITRIO\Escritorio\Pruebas\Quasar\OperacionQuasar\OperacionQuasar\bin\Debug\netcoreapp3.1\OperacionQuasar.deps.json
+C:\Users\Max\OneDrive - ITRIO\Escritorio\Pruebas\Quasar\OperacionQuasar\OperacionQuasar\bin\Debug\netcoreapp3.1\OperacionQuasar.runtimeconfig.json
+C:\Users\Max\OneDrive - ITRIO\Escritorio\Pruebas\Quasar\OperacionQuasar\OperacionQuasar\bin\Debug\netcoreapp3.1\OperacionQuasar.runtimeconfig.dev.json
+C:\Users\Max\OneDrive - ITRIO\Escritorio\Pruebas\Quasar\OperacionQuasar\OperacionQuasar\bin\Debug\netcoreapp3.1\OperacionQuasar.dll
+C:\Users\Max\OneDrive - ITRIO\Escritorio\Pruebas\Quasar\OperacionQuasar\OperacionQuasar\bin\Debug\netcoreapp3.1\OperacionQuasar.pdb
+C:\Users\Max\OneDrive - ITRIO\Escritorio\Pruebas\Quasar\OperacionQuasar\OperacionQuasar\obj\Debug\netcoreapp3.1\OperacionQuasar.csproj.AssemblyReference.cache
+C:\Users\Max\OneDrive - ITRIO\Escritorio\Pruebas\Quasar\OperacionQuasar\OperacionQuasar\obj\Debug\netcoreapp3.1\OperacionQuasar.AssemblyInfoInputs.cache
+C:\Users\Max\OneDrive - ITRIO\Escritorio\Pruebas\Quasar\OperacionQuasar\OperacionQuasar\obj\Debug\netcoreapp3.1\OperacionQuasar.AssemblyInfo.cs
+C:\Users\Max\OneDrive - ITRIO\Escritorio\Pruebas\Quasar\OperacionQuasar\OperacionQuasar\obj\Debug\netcoreapp3.1\OperacionQuasar.csproj.CoreCompileInputs.cache
+C:\Users\Max\OneDrive - ITRIO\Escritorio\Pruebas\Quasar\OperacionQuasar\OperacionQuasar\obj\Debug\netcoreapp3.1\OperacionQuasar.dll
+C:\Users\Max\OneDrive - ITRIO\Escritorio\Pruebas\Quasar\OperacionQuasar\OperacionQuasar\obj\Debug\netcoreapp3.1\OperacionQuasar.pdb
+C:\Users\Max\OneDrive - ITRIO\Escritorio\Pruebas\Quasar\OperacionQuasar\OperacionQuasar\obj\Debug\netcoreapp3.1\OperacionQuasar.genruntimeconfig.cache

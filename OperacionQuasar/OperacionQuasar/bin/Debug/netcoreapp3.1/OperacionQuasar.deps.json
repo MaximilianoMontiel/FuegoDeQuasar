@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OperacionQuasar/1.0.0": {
+        "runtime": {
+          "OperacionQuasar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OperacionQuasar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
